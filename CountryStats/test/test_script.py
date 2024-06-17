@@ -1,5 +1,3 @@
-# tests/test_main_script.py
-
 import unittest
 import hashlib
 from src.main_script import fetch_country_data, process_country_data

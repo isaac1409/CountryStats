@@ -1,5 +1,3 @@
-# src/main_script.py
-
 import pandas as pd
 import requests
 import hashlib
